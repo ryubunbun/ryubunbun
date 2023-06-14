@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer science
 - 🌱 I’m currently learning painting
 - 💞️ I’m looking to collaborate on tech things
-- 📫 How to reach me ryubun@fuji.waseda.jp
+- 📫 How to reach me: ryubunjournalist@gmail.com
 
 <!---
 ryubunbun/ryubunbun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
