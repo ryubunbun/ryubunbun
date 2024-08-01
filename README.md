@@ -1,4 +1,4 @@
-- 👋 Hi, My name is LONG WEN.My Japanese name is ryubun.I’m @ryubunbun
+- 👋 Hi, My name is LONG WEN.You can call me bumilong.I’m @ryubunbun
 - 👀 I’m interested in Computer science
 - 🌱 I’m currently learning painting
 - 💞️ I’m looking to collaborate on tech things
